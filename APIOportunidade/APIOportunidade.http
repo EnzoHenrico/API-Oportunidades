@@ -1,0 +1,6 @@
+@APIOportunidade_HostAddress = http://localhost:5148
+
+GET {{APIOportunidade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
